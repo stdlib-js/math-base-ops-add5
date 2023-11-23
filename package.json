@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-ops-add5",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the sum of five double-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
