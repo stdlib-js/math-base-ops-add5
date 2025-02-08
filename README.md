@@ -236,7 +236,7 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math-base/ops/add`][@stdlib/math/base/ops/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two double-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/number-float64/base/add`][@stdlib/number/float64/base/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two double-precision floating-point numbers.</span>
 
 </section>
 
@@ -316,7 +316,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/math/base/ops/add]: https://github.com/stdlib-js/math-base-ops-add
+[@stdlib/number/float64/base/add]: https://github.com/stdlib-js/number-float64-base-add
 
 <!-- </related-links> -->
 
